@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Customer staging table"
+    columns:
+      - name: customer_id
+        description: "Primary key for customers"
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_name
+        tests:
+          - not_null
+
+  #- name: stg_orders
+   # description: "Orders staging table"
+    #columns:
+     # - name: order_id
+      #  tests:
+       #   - not_null
+        #  - unique
+#
+ #     - name: customer_id
+  #      tests:
+   #       - not_null
+    #      - relationships:
+     #         to: ref('stg_customers')
+      #        field: customer_id

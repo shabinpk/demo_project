@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: demo_sources # This is the name you use in {{ source('demo_sources', '...') }}
+    database: postgres
+    schema: demo
+    tables:
+      - name: customers
+      - name: orders
+      - name: orders_seed

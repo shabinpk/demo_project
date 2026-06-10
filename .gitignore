@@ -1,0 +1,12 @@
+#dbt generated folders
+target/
+dbt_packages/
+logs/
+
+#Python vens
+venv/
+.env/
+
+#system files
+.DS_Store
+Thumbs.db

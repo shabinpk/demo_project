@@ -1,0 +1,37 @@
+order_id,customer_id,product_name,product_category,quantity,price
+201,1,Running Shoes,Footwear,2,120
+202,2,Bluetooth Speaker,Electronics,1,90
+203,3,Formal Shirt,Apparel,3,45
+204,4,Laptop Bag,Accessories,2,75
+205,5,Desk Lamp,Home Appliances,1,35
+206,6,Tennis Racket,Sports,1,150
+207,7,Coffee Maker,Home Appliances,1,85
+208,8,Wireless Mouse,Electronics,1,40
+209,9,Notebook,Stationery,5,3
+210,10,Hiking Boots,Footwear,1,180
+211,1,Running Shoes,Footwear,1,120
+212,2,Trail Backpack,Outdoor,2,100
+213,3,Wireless Earbuds,Electronics,1,65
+214,4,T-Shirt,Apparel,4,25
+215,5,Formal Shirt,Apparel,2,45
+216,6,Coffee Beans,Groceries,3,15
+217,7,Water Bottle,Outdoor,1,20
+218,8,Keyboard,Electronics,1,55
+219,9,Monitor Stand,Accessories,1,32
+220,10,Office Chair,Furniture,1,180
+221,1,USB Cable,Electronics,3,8
+222,2,Wireless Charger,Electronics,1,30
+223,3,Gaming Mouse,Electronics,1,60
+224,4,Desk Mat,Accessories,1,20
+225,5,Wall Clock,Home Decor,1,35
+226,6,Wireless Keyboard,Electronics,1,45
+227,4,Badminton Racket,Sports,1,65
+228,5,LED Lantern,Outdoor,1,30
+229,6,Electric Shaver,Home Appliances,1,70
+230,7,Phone Holder,Accessories,1,10
+231,8,Sports Cap,Sports,1,15
+232,9,Makeup Kit,Personal Care,1,55
+233,10,Iron Box,Home Appliances,1,48
+234,3,Standing Desk,Furniture,1,220
+400,3,NullCustomer,ErrorRowFixed,1,10
+501,3,InvalidCustomer,ErrorRowFixed,1,12
