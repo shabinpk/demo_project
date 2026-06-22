@@ -1,5 +1,5 @@
 # This profile file lives directly inside your dbt project directory
-demo_project:
+demo:
   outputs:
     dev:
       type: postgres
