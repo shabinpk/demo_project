@@ -1,12 +1,11 @@
-# This profile file lives directly inside your dbt project directory
 demo:
   outputs:
     dev:
       type: postgres
       host: localhost
-      user: dummy_user
-      password: dummy_password
+      user: postgres
+      password: postgres
       port: 5432
-      dbname: dummy_db
-      schema: dummy_schema
+      dbname: postgres
+      schema: public
   target: dev
